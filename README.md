@@ -6,11 +6,10 @@ It is common knowledge that jobs in the STEM fields in the US are increasing eve
 
 ## File Descriptions
 - H_1B_petitions.ipynb : the notebook that contains all of the code for exploring the dataset
-- h1b_kaggle.csv : the dataset
-- geo_export_147a1d75-342a-4acc-b46f-b93aaab27e22.shp : the file required to plot united states map
+- States 21 : this directory contains geo data and shapes required for plotting the United States Map
 
 ## How to use the Notebook
-Run through all the cells to generate the tables and figures that are used to summarize the data.
+Run through all the cells to generate the tables and figures that are used to summarize the data. Download the data set h1b_kaggle.csv from https://www.kaggle.com/nsharan/h-1b-visa and place it in the same directory as the notebook
 
 ## Acknowledgements
 This data set was obtained from Kaggle. Thanks to Sharan Naribole who uploaded on the platform after cleaning and transforming the original dataset. The original data set was from The Office of Foreign Labor Certification (OFLC).
