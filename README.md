@@ -6,7 +6,7 @@ It is common knowledge that jobs in the STEM fields in the US are increasing eve
 
 ## File Descriptions
 - H_1B_petitions.ipynb : the notebook that contains all of the code for exploring the dataset
-- States 21 : this directory contains geo data and shapes required for plotting the United States Map
+- States 21basic : this directory contains geo data and shapes required for plotting the United States Map
 
 ## How to use the Notebook
 Run through all the cells to generate the tables and figures that are used to summarize the data. Download the data set h1b_kaggle.csv from https://www.kaggle.com/nsharan/h-1b-visa and place it in the same directory as the notebook
