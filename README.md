@@ -12,5 +12,5 @@ It is common knowledge that jobs in the STEM fields in the US are increasing eve
 Run through all the cells to generate the tables and figures that are used to summarize the data. Download the data set h1b_kaggle.csv from https://www.kaggle.com/nsharan/h-1b-visa and place it in the same directory as the notebook
 
 ## Acknowledgements
-This data set was obtained from Kaggle. Thanks to Sharan Naribole who uploaded on the platform after cleaning and transforming the original dataset. The original data set was from The Office of Foreign Labor Certification (OFLC).
+This data set was obtained from Kaggle. Thanks to Sharan Naribole who uploaded the data on the platform after cleaning and transforming the original dataset. The original data set was from The Office of Foreign Labor Certification (OFLC).
 
